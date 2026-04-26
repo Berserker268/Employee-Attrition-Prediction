@@ -1,6 +1,5 @@
-[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/YOUR_USERNAME/employee-attrition-prediction)
-
 🚀 **Live Demo:** [Try it here](https://huggingface.co/spaces/Berserker268/Employee_Attrition_Prediction)
+
 # 🧑‍💼 Employee Attrition Prediction
 
 A machine learning project that predicts whether an employee is likely to leave a company, using the IBM HR Analytics dataset. The project covers the full ML pipeline — from EDA to model comparison, explainability, and an interactive Gradio demo.
