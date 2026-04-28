@@ -123,8 +123,8 @@ kagglehub
 
 ---
 
-## 🙋 Author Mahdi Rahman
+## 🙋 Author
 
-Made with ❤️ as part of a personal ML portfolio project.
+Made by Berserker268 as part of a personal ML portfolio project.
 
 Feel free to fork, star ⭐, and contribute!
